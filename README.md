@@ -1,7 +1,4 @@
-# Student Portal API (Flask + MongoDB)
-
-A REST API for students to create and manage their own accounts, built with
-**Flask and MongoDB only** — no Django, no ORM.
+# Student Portal API (Flask+MongoDB)
 
 ## Features
 
